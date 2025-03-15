@@ -75,6 +75,54 @@
             //Console.WriteLine($"My name is : {name1} {name2}"); 
             #endregion
 
+            #region Q8
+            //Console.Write("Enter the Amount : ");
+            //int PrincipalAmount = Convert.ToInt32(Console.ReadLine());
+
+            //Console.Write("Enter the Rate : ");
+            //int RateOfInterest = Convert.ToInt32(Console.ReadLine());
+
+            //Console.Write("Enter the Time : ");
+            //int Time = Convert.ToInt32(Console.ReadLine());
+
+            //int Interest = (PrincipalAmount * RateOfInterest * Time) / 100;
+            //Console.WriteLine($"The Result = {Interest}"); 
+            #endregion
+
+            #region Q9 
+            //Console.Write("Enter the Weight : ");
+            //double Weight = Convert.ToInt32(Console.ReadLine());
+
+            //Console.Write("Enter the Height : ");
+            //double Height = Convert.ToInt32(Console.ReadLine());
+
+            //double BMI = ( Weight / (Height * Height) );
+            //Console.WriteLine($"The Result = {BMI} "); 
+            #endregion
+
+            #region Q10 
+            //Console.Write("If Your Degree Is :");
+            //int D = Convert.ToInt32(Console.ReadLine());
+            //string message = D < 10 ? "Just Cold" : D > 30 ? "Just Hot" : "JustGood";
+            //Console.WriteLine(message); 
+            #endregion
+
+            #region Q11 
+            //int D = Convert.ToInt32(Console.ReadLine());
+            //int M = Convert.ToInt32(Console.ReadLine());
+            //int Y = Convert.ToInt32(Console.ReadLine());
+
+            //Console.WriteLine($"Today’s date : {D} , {M} , {Y}");
+            //Console.WriteLine($"Today’s date : {D} / {M} / {Y}");
+            //Console.WriteLine($"Today’s date : {D} - {M} - {Y}"); 
+            #endregion
+
+            /* MCQ
+            Q12: c)	 The event is on 06/14/2024
+            Q13: f)	A value 1 will be assigned to d.
+            Q14: a)	6.5 1
+            Q15: d)	7 7
+            */
         }
     }
 }
